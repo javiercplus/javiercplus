@@ -22,7 +22,7 @@ I actively collaborate on various open-source projects, focusing on launchers, p
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=franckey02&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=javiercplus&theme=nord" alt="GitHub Streak" />
 </p>
 
 ---
